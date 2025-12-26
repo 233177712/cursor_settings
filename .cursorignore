@@ -10,6 +10,7 @@ Tools/
 *.o
 *.a
 *.so
+*.so.[0-9]*
 *.elf
 *.bin
 *.hex
@@ -67,7 +68,6 @@ GTAGS
 .ccache/
 .cache/
 .vscode/
-.idea/
 .git/
 
 # ============================================
